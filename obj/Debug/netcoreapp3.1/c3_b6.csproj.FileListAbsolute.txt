@@ -1,0 +1,13 @@
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.AssemblyInfo.cs
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\c3_b6\bin\Debug\netcoreapp3.1\c3_b6.exe
+C:\Users\hoang\source\repos\c3_b6\bin\Debug\netcoreapp3.1\c3_b6.deps.json
+C:\Users\hoang\source\repos\c3_b6\bin\Debug\netcoreapp3.1\c3_b6.runtimeconfig.json
+C:\Users\hoang\source\repos\c3_b6\bin\Debug\netcoreapp3.1\c3_b6.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\c3_b6\bin\Debug\netcoreapp3.1\c3_b6.dll
+C:\Users\hoang\source\repos\c3_b6\bin\Debug\netcoreapp3.1\c3_b6.pdb
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.dll
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.pdb
+C:\Users\hoang\source\repos\c3_b6\obj\Debug\netcoreapp3.1\c3_b6.genruntimeconfig.cache
